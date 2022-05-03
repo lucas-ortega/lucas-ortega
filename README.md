@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying hard **Python and Machine learning**
 
-- 👯 I’m motivated to collaborate on **Data Science internship**
+- 👯 I’m motivated to get an opportunity as **Data Science intern**
 
 - 💬 Ask me about **Python, Power BI, Excel**
 
