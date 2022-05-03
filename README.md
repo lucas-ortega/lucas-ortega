@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Ortega</h1>
 <h3 align="center">A passionate data scientist from Brazil</h3>
 
-- 🌱 I’m currently learning **Python and Machine learning**
+- 🌱 I’m currently studying hard **Python and Machine learning**
 
 - 👯 I’m motivated to collaborate on **Data Science internship**
 
