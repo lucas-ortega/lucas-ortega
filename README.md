@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas Ortega</h1>
-<h3 align="center">A passionate data scientist student from Brazil</h3>
+<h3 align="center">A passionate data scientist from Brazil</h3>
 
 - 🌱 I’m currently studying hard **Python and Machine learning**
 
 - 👯 I’m motivated to get an opportunity as **Data Scientist Junior**
 
-- 💬 Ask me about **Python, Power BI, Excel**
+- 💬 Ask me about **Python, Power BI, Excel, SQL and Machine Learning**
 
 - 📫 How to reach me **lucas.saddiortega@gmail.com**
 
